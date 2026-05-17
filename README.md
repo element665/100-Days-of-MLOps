@@ -49,9 +49,9 @@ Currently working on:
 ```shell
 .
 ├── days/
-│   ├── day-01-python-virtual-environment/
-│   ├── day-02-jupyter-notebook-server/
-│   ├── day-03-fix-uv-lockfile/
+│   ├── Day 1 - Create a Python Virtual Environment for ML.md
+│   ├── Day 2 - Set Up and Configure Jupyter Notebook Server.md
+│   ├── Day 3 - Fix a Broken uv Lockfile Specification.md
 │   └── ...
 ├── assets/
 ├── screenshots/
