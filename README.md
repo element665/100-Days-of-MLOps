@@ -177,10 +177,10 @@ Currently working on:
 
 | Day | Topic                                                                  | Status | Link        |
 | --- | ---------------------------------------------------------------------- | ------ | ----------- |
-| 1   | Create a Python Virtual Environment for ML                             | ⬜     | Coming Soon |
-| 2   | Set Up and Configure Jupyter Notebook Server                           | ⬜     | Coming Soon |
-| 3   | Fix a Broken uv Lockfile Specification                                 | ⬜     | Coming Soon |
-| 4   | Create a Standard ML Project Structure                                 | ⬜     | Coming Soon |
+| 1   | Create a Python Virtual Environment for ML                             | ✅     | [View](<days/Day 1 - Create a Python Virtual Environment for ML.md>) |
+| 2   | Set Up and Configure Jupyter Notebook Server                           | ✅     | [View](<days/Day 2 - Set Up and Configure Jupyter Notebook Server.md>)|
+| 3   | Fix a Broken uv Lockfile Specification                                 | ✅     | [View](<days/Day 3 - Fix a Broken uv Lockfile Specification.md>) |
+| 4   | Create a Standard ML Project Structure                                 | ✅     | [View](<days/Day 4 - Create a Standard ML Project Structure.md>) |
 | 5   | Create a Makefile for ML Workflow Automation                           | ⬜     | Coming Soon |
 | 6   | Set Up Code Quality Tools for ML Code                                  | ⬜     | Coming Soon |
 | 7   | Package an ML Project as Installable Python Package                    | ⬜     | Coming Soon |
