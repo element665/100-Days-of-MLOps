@@ -19,6 +19,7 @@ This challenge focuses on:
 ## 📈 Progress
 
 █░░░░░░░░░ 5%
+
 Day 5 / 100
 
 ---
