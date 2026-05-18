@@ -18,8 +18,8 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 4%
-Day 4 / 100
+█░░░░░░░░░ 5%
+Day 5 / 100
 
 ---
 
@@ -181,7 +181,7 @@ Currently working on:
 | 2   | Set Up and Configure Jupyter Notebook Server                           | ✅     | [View](<days/Day 2 - Set Up and Configure Jupyter Notebook Server.md>)|
 | 3   | Fix a Broken uv Lockfile Specification                                 | ✅     | [View](<days/Day 3 - Fix a Broken uv Lockfile Specification.md>) |
 | 4   | Create a Standard ML Project Structure                                 | ✅     | [View](<days/Day 4 - Create a Standard ML Project Structure.md>) |
-| 5   | Create a Makefile for ML Workflow Automation                           | ⬜     | Coming Soon |
+| 5   | Create a Makefile for ML Workflow Automation                           | ✅     | [View](<days/Day 5 - Create a Makefile for ML Workflow Automation.md>) |
 | 6   | Set Up Code Quality Tools for ML Code                                  | ⬜     | Coming Soon |
 | 7   | Package an ML Project as Installable Python Package                    | ⬜     | Coming Soon |
 | 8   | Configure Pre-Commit Hooks for ML Repository                           | ⬜     | Coming Soon |
