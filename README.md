@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 6%
+█░░░░░░░░░ 7%
 
-Day 6 / 100
+Day 7 / 100
 
 ---
 
@@ -184,7 +184,7 @@ Currently working on:
 | 4   | Create a Standard ML Project Structure                                 | ✅     | [View](<days/Day 4 - Create a Standard ML Project Structure.md>) |
 | 5   | Create a Makefile for ML Workflow Automation                           | ✅     | [View](<days/Day 5 - Create a Makefile for ML Workflow Automation.md>) |
 | 6   | Set Up Code Quality Tools for ML Code                                  | ✅     | [View](<days/Day 6 - Set Up Code Quality Tools for ML Code.md>) |
-| 7   | Package an ML Project as Installable Python Package                    | ⬜     | Coming Soon |
+| 7   | Package an ML Project as Installable Python Package                    | ✅     | [View](<days/Day 7 - Package an ML Project as Installable Python Package.md>) |
 | 8   | Configure Pre-Commit Hooks for ML Repository                           | ⬜     | Coming Soon |
 | 9   | Create a Custom ML Project Template with Cookiecutter                  | ⬜     | Coming Soon |
 | 10  | Install and Initialize DVC in an ML Project                            | ⬜     | Coming Soon |
