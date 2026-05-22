@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 8%
+█░░░░░░░░░ 9%
 
-Day 8 / 100
+Day 9 / 100
 
 ---
 
@@ -186,7 +186,7 @@ Currently working on:
 | 6   | Set Up Code Quality Tools for ML Code                                  | ✅     | [View](<days/Day 6 - Set Up Code Quality Tools for ML Code.md>) |
 | 7   | Package an ML Project as Installable Python Package                    | ✅     | [View](<days/Day 7 - Package an ML Project as Installable Python Package.md>) |
 | 8   | Configure Pre-Commit Hooks for ML Repository                           | ✅     | [View](<days/Day 8 - Configure Pre-Commit Hooks for ML Repository.md>) |
-| 9   | Create a Custom ML Project Template with Cookiecutter                  | ⬜     | Coming Soon |
+| 9   | Create a Custom ML Project Template with Cookiecutter                  | ✅     | [View](<days/Day 9 - Create a Custom ML Project Template with Cookiecutter.md>) |
 | 10  | Install and Initialize DVC in an ML Project                            | ⬜     | Coming Soon |
 | 11  | Track a Dataset with DVC                                               | ⬜     | Coming Soon |
 | 12  | Configure a DVC Remote Storage                                         | ⬜     | Coming Soon |
