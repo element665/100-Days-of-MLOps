@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 9%
+█░░░░░░░░░ 10%
 
-Day 9 / 100
+Day 10 / 100
 
 ---
 
@@ -187,7 +187,7 @@ Currently working on:
 | 7   | Package an ML Project as Installable Python Package                    | ✅     | [View](<days/Day 7 - Package an ML Project as Installable Python Package.md>) |
 | 8   | Configure Pre-Commit Hooks for ML Repository                           | ✅     | [View](<days/Day 8 - Configure Pre-Commit Hooks for ML Repository.md>) |
 | 9   | Create a Custom ML Project Template with Cookiecutter                  | ✅     | [View](<days/Day 9 - Create a Custom ML Project Template with Cookiecutter.md>) |
-| 10  | Install and Initialize DVC in an ML Project                            | ⬜     | Coming Soon |
+| 10  | Install and Initialize DVC in an ML Project                            | ✅     | [View](<days/Day 10 - Install and Initialize DVC in an ML Project.md>) |
 | 11  | Track a Dataset with DVC                                               | ⬜     | Coming Soon |
 | 12  | Configure a DVC Remote Storage                                         | ⬜     | Coming Soon |
 | 13  | Pull DVC-Tracked Data from Remote                                      | ⬜     | Coming Soon |
