@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 10%
+█░░░░░░░░░ 11%
 
-Day 10 / 100
+Day 11 / 100
 
 ---
 
@@ -188,7 +188,7 @@ Currently working on:
 | 8   | Configure Pre-Commit Hooks for ML Repository                           | ✅     | [View](<days/Day 8 - Configure Pre-Commit Hooks for ML Repository.md>) |
 | 9   | Create a Custom ML Project Template with Cookiecutter                  | ✅     | [View](<days/Day 9 - Create a Custom ML Project Template with Cookiecutter.md>) |
 | 10  | Install and Initialize DVC in an ML Project                            | ✅     | [View](<days/Day 10 - Install and Initialize DVC in an ML Project.md>) |
-| 11  | Track a Dataset with DVC                                               | ⬜     | Coming Soon |
+| 11  | Track a Dataset with DVC                                               | ✅     | [View](<days/Day 11 - Track a Dataset with DVC.md>) |
 | 12  | Configure a DVC Remote Storage                                         | ⬜     | Coming Soon |
 | 13  | Pull DVC-Tracked Data from Remote                                      | ⬜     | Coming Soon |
 | 14  | Create a DVC Pipeline for Data Processing                              | ⬜     | Coming Soon |
