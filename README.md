@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 11%
+█░░░░░░░░░ 12%
 
-Day 11 / 100
+Day 12 / 100
 
 ---
 
@@ -189,7 +189,7 @@ Currently working on:
 | 9   | Create a Custom ML Project Template with Cookiecutter                  | ✅     | [View](<days/Day 9 - Create a Custom ML Project Template with Cookiecutter.md>) |
 | 10  | Install and Initialize DVC in an ML Project                            | ✅     | [View](<days/Day 10 - Install and Initialize DVC in an ML Project.md>) |
 | 11  | Track a Dataset with DVC                                               | ✅     | [View](<days/Day 11 - Track a Dataset with DVC.md>) |
-| 12  | Configure a DVC Remote Storage                                         | ⬜     | Coming Soon |
+| 12  | Configure a DVC Remote Storage                                         | ✅     | [View](<days/Day 12 - Configure a DVC Remote Storage.md>) |
 | 13  | Pull DVC-Tracked Data from Remote                                      | ⬜     | Coming Soon |
 | 14  | Create a DVC Pipeline for Data Processing                              | ⬜     | Coming Soon |
 | 15  | Parameterize a DVC Pipeline                                            | ⬜     | Coming Soon |
