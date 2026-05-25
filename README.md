@@ -178,15 +178,15 @@ Currently working on:
 
 | Day | Topic                                                                  | Status | Link        |
 | --- | ---------------------------------------------------------------------- | ------ | ----------- |
-| 1   | Create a Python Virtual Environment for ML                             | ✅     | [View](<days/Day 1 - Create a Python Virtual Environment for ML.md>) |
-| 2   | Set Up and Configure Jupyter Notebook Server                           | ✅     | [View](<days/Day 2 - Set Up and Configure Jupyter Notebook Server.md>)|
-| 3   | Fix a Broken uv Lockfile Specification                                 | ✅     | [View](<days/Day 3 - Fix a Broken uv Lockfile Specification.md>) |
-| 4   | Create a Standard ML Project Structure                                 | ✅     | [View](<days/Day 4 - Create a Standard ML Project Structure.md>) |
-| 5   | Create a Makefile for ML Workflow Automation                           | ✅     | [View](<days/Day 5 - Create a Makefile for ML Workflow Automation.md>) |
-| 6   | Set Up Code Quality Tools for ML Code                                  | ✅     | [View](<days/Day 6 - Set Up Code Quality Tools for ML Code.md>) |
-| 7   | Package an ML Project as Installable Python Package                    | ✅     | [View](<days/Day 7 - Package an ML Project as Installable Python Package.md>) |
-| 8   | Configure Pre-Commit Hooks for ML Repository                           | ✅     | [View](<days/Day 8 - Configure Pre-Commit Hooks for ML Repository.md>) |
-| 9   | Create a Custom ML Project Template with Cookiecutter                  | ✅     | [View](<days/Day 9 - Create a Custom ML Project Template with Cookiecutter.md>) |
+| 1   | Create a Python Virtual Environment for ML                             | ✅     | [View](<Day 01 - Create a Python Virtual Environment for ML.md>) |
+| 2   | Set Up and Configure Jupyter Notebook Server                           | ✅     | [View](<Day 02 - Set Up and Configure Jupyter Notebook Server.md>)|
+| 3   | Fix a Broken uv Lockfile Specification                                 | ✅     | [View](<Day 03 - Fix a Broken uv Lockfile Specification.md>) |
+| 4   | Create a Standard ML Project Structure                                 | ✅     | [View](<Day 04 - Create a Standard ML Project Structure.md>) |
+| 5   | Create a Makefile for ML Workflow Automation                           | ✅     | [View](<Day 05 - Create a Makefile for ML Workflow Automation.md>) |
+| 6   | Set Up Code Quality Tools for ML Code                                  | ✅     | [View](<Day 06 - Set Up Code Quality Tools for ML Code.md>) |
+| 7   | Package an ML Project as Installable Python Package                    | ✅     | [View](<Day 07 - Package an ML Project as Installable Python Package.md>) |
+| 8   | Configure Pre-Commit Hooks for ML Repository                           | ✅     | [View](<Day 08 - Configure Pre-Commit Hooks for ML Repository.md>) |
+| 9   | Create a Custom ML Project Template with Cookiecutter                  | ✅     | [View](<Day 09 - Create a Custom ML Project Template with Cookiecutter.md>) |
 | 10  | Install and Initialize DVC in an ML Project                            | ✅     | [View](<days/Day 10 - Install and Initialize DVC in an ML Project.md>) |
 | 11  | Track a Dataset with DVC                                               | ✅     | [View](<days/Day 11 - Track a Dataset with DVC.md>) |
 | 12  | Configure a DVC Remote Storage                                         | ✅     | [View](<days/Day 12 - Configure a DVC Remote Storage.md>) |
