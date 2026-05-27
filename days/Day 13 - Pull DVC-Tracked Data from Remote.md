@@ -22,62 +22,66 @@ A new xFusionCorp Industries team member has cloned the fraud-detection reposito
 
 Solution
 
-
-
-```shell
-
-```
-
-
+Navigate to repo
 
 ```shell
-
+cd /root/code/fraud-detection/
 ```
 
-
+Attempt dvc pull to view error message
 
 ```shell
-
+dvc pull
 ```
 
-
+Output
 
 ```shell
-
+ERROR: failed to connect to s3 (dvc-storage/files/md5) - Unable to locate credentials
 ```
 
-
+Add missing credentials to (/root/code/fraud-detection/.dvc/config)
 
 ```shell
+[core]
+    remote = s3
 
+['remote "s3"']
+    url = s3://dvc-storage
+    endpointurl = http://localhost:8333
+    access_key_id = weedadmin
+    secret_access_key = weedadmin123
 ```
 
-
+Try dvc pull again
 
 ```shell
-
+dvc pull
 ```
 
+Dvc pull was successful 
 
+Output
 
 ```shell
-
+Collecting                         |0.00 [00:00,    ?entry/s]
+Fetching
+Building workspace index           |2.00 [00:00,  681entry/s]
+Comparing indexes                 |4.00 [00:00, 3.05kentry/s]
+Applying changes                   |1.00 [00:00, 1.18kfile/s]
+A       data/raw/transactions.csv
+1 file fetched and 1 file added
 ```
 
-
+Verify result
 
 ```shell
-
+dvc status
 ```
 
-
+Output
 
 ```shell
-
+Data and pipelines are up to date.
 ```
 
-
-
-```shell
-
-```
