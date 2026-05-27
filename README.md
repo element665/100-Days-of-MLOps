@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 12%
+█░░░░░░░░░ 13%
 
-Day 12 / 100
+Day 13 / 100
 
 ---
 
@@ -190,7 +190,7 @@ Currently working on:
 | 10  | Install and Initialize DVC in an ML Project                            | ✅     | [View](<days/Day 10 - Install and Initialize DVC in an ML Project.md>) |
 | 11  | Track a Dataset with DVC                                               | ✅     | [View](<days/Day 11 - Track a Dataset with DVC.md>) |
 | 12  | Configure a DVC Remote Storage                                         | ✅     | [View](<days/Day 12 - Configure a DVC Remote Storage.md>) |
-| 13  | Pull DVC-Tracked Data from Remote                                      | ⬜     | Coming Soon |
+| 13  | Pull DVC-Tracked Data from Remote                                      | ✅     | [View](<days/Day 13 - Pull DVC-Tracked Data from Remote.md>) |
 | 14  | Create a DVC Pipeline for Data Processing                              | ⬜     | Coming Soon |
 | 15  | Parameterize a DVC Pipeline                                            | ⬜     | Coming Soon |
 | 16  | Track ML Metrics with DVC                                              | ⬜     | Coming Soon |
