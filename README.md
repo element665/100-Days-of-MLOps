@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 13%
+█░░░░░░░░░ 14%
 
-Day 13 / 100
+Day 14 / 100
 
 ---
 
@@ -191,7 +191,7 @@ Currently working on:
 | 11  | Track a Dataset with DVC                                               | ✅     | [View](<days/Day 11 - Track a Dataset with DVC.md>) |
 | 12  | Configure a DVC Remote Storage                                         | ✅     | [View](<days/Day 12 - Configure a DVC Remote Storage.md>) |
 | 13  | Pull DVC-Tracked Data from Remote                                      | ✅     | [View](<days/Day 13 - Pull DVC-Tracked Data from Remote.md>) |
-| 14  | Create a DVC Pipeline for Data Processing                              | ⬜     | Coming Soon |
+| 14  | Create a DVC Pipeline for Data Processing                              | ✅     | [View](<days/Day 14 - Create a DVC Pipeline for Data Processing.md>) |
 | 15  | Parameterize a DVC Pipeline                                            | ⬜     | Coming Soon |
 | 16  | Track ML Metrics with DVC                                              | ⬜     | Coming Soon |
 | 17  | Run and Compare DVC Experiments                                        | ⬜     | Coming Soon |
