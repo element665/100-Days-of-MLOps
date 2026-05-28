@@ -85,7 +85,7 @@ dvc repro
 
 Output
 
-![DVC repro Screenshot](<screenshots/Screenshot Day 14.png>)
+![DVC repro Screenshot](<../screenshots/Screenshot Day 14.png>)
 
 Check dvc status
 

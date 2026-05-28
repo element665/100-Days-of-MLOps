@@ -72,4 +72,4 @@ dvc push
 
 Verify result using SeaweedFS link
 
-![SeaweedFS Screenshot](<screenshots/Screenshot Day 12.png>)
+![SeaweedFS Screenshot](<../screenshots/Screenshot Day 12.png>)
