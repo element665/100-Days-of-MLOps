@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█░░░░░░░░░ 16%
+█░░░░░░░░░ 17%
 
-Day 16 / 100
+Day 17 / 100
 
 ---
 
@@ -194,7 +194,7 @@ Currently working on:
 | 14  | Create a DVC Pipeline for Data Processing                              | ✅     | [View](<days/Day 14 - Create a DVC Pipeline for Data Processing.md>) |
 | 15  | Parameterize a DVC Pipeline                                            | ✅     | [View](<days/Day 15 - Parameterize a DVC Pipeline.md>) |
 | 16  | Track ML Metrics with DVC                                              | ✅     | [View](<days/Day 16 - Track ML Metrics with DVC.md>) |
-| 17  | Run and Compare DVC Experiments                                        | ⬜     | Coming Soon |
+| 17  | Run and Compare DVC Experiments                                        | ✅     | [View](<days/Day 17 - Run and Compare DVC Experiments.md>) |
 | 18  | Version Datasets and Models Across Git Branches                        | ⬜     | Coming Soon |
 | 19  | Build Complete DVC ML Pipeline with Remote Storage and Experiments     | ⬜     | Coming Soon |
 | 20  | Install and Start the MLflow Tracking Server                           | ⬜     | Coming Soon |
