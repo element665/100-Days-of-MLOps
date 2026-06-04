@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██░░░░░░░░ 20%
+██░░░░░░░░ 21%
 
-Day 20 / 100
+Day 21 / 100
 
 ---
 
@@ -198,7 +198,7 @@ Currently working on:
 | 18  | Version Datasets and Models Across Git Branches                        | ✅     | [View](<days/Day 18 - Version Datasets and Models Across Git Branches.md>) |
 | 19  | Build Complete DVC ML Pipeline with Remote Storage and Experiments     | ✅     | [View](<days/Day 19 - Build Complete DVC ML Pipeline with Remote Storage and Experiments.md>) |
 | 20  | Install and Start the MLflow Tracking Server                           | ✅     | [View](<days/Day 20 - Install and Start the MLflow Tracking Server.md>) |
-| 21  | Log an ML Experiment to MLflow                                         | ⬜     | Coming Soon |
+| 21  | Log an ML Experiment to MLflow                                         | ✅     | [View](<days/Day 21 - Log an ML Experiment to MLflow.md>) |
 | 22  | Create and Organize MLflow Experiments                                 | ⬜     | Coming Soon |
 | 23  | Search and Query MLflow Runs                                           | ⬜     | Coming Soon |
 | 24  | Enable MLflow Autologging                                              | ⬜     | Coming Soon |
