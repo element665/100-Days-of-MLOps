@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██░░░░░░░░ 21%
+██░░░░░░░░ 22%
 
-Day 21 / 100
+Day 22 / 100
 
 ---
 
@@ -199,7 +199,7 @@ Currently working on:
 | 19  | Build Complete DVC ML Pipeline with Remote Storage and Experiments     | ✅     | [View](<days/Day 19 - Build Complete DVC ML Pipeline with Remote Storage and Experiments.md>) |
 | 20  | Install and Start the MLflow Tracking Server                           | ✅     | [View](<days/Day 20 - Install and Start the MLflow Tracking Server.md>) |
 | 21  | Log an ML Experiment to MLflow                                         | ✅     | [View](<days/Day 21 - Log an ML Experiment to MLflow.md>) |
-| 22  | Create and Organize MLflow Experiments                                 | ⬜     | Coming Soon |
+| 22  | Create and Organize MLflow Experiments                                 | ✅     | [View](<days/Day 22 - Create and Organize MLflow Experiments.md>) |
 | 23  | Search and Query MLflow Runs                                           | ⬜     | Coming Soon |
 | 24  | Enable MLflow Autologging                                              | ⬜     | Coming Soon |
 | 25  | Register, Version, and Manage Model Lifecycle                          | ⬜     | Coming Soon |
