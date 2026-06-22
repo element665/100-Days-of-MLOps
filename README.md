@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██░░░░░░░░ 24%
+██░░░░░░░░ 25%
 
-Day 24 / 100
+Day 25 / 100
 
 ---
 
@@ -202,7 +202,7 @@ Currently working on:
 | 22  | Create and Organize MLflow Experiments                                 | ✅     | [View](<days/Day 22 - Create and Organize MLflow Experiments.md>) |
 | 23  | Search and Query MLflow Runs                                           | ✅     | [View](<days/Day 23 - Search and Query MLflow Runs.md>) |
 | 24  | Enable MLflow Autologging                                              | ✅     | [View](<days/Day 24 - Enable MLflow Autologging.md>) |
-| 25  | Register, Version, and Manage Model Lifecycle                          | ⬜     | Coming Soon |
+| 25  | Register, Version, and Manage Model Lifecycle                          | ✅     | [View](<days/Day 25 - Register, Version, and Manage Model Lifecycle.md>) |
 | 26  | Compare Model Runs and Select the Best                                 | ⬜     | Coming Soon |
 | 27  | Load Model from Registry with Custom Preprocessing                     | ⬜     | Coming Soon |
 | 28  | Fix a Broken MLflow Project and Re-Run It                              | ⬜     | Coming Soon |
