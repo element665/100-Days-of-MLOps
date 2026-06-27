@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██░░░░░░░░ 26%
+██░░░░░░░░ 27%
 
-Day 26 / 100
+Day 27 / 100
 
 ---
 
@@ -28,9 +28,9 @@ Day 26 / 100
 
 Currently working on:
 
-- ML project foundations
-- Python tooling for ML workflows
-- Reproducible development environments
+- Fixing and re-running broken MLflow Projects
+- Configuring MLflow with a remote tracking server and artifact store
+- End-to-end MLflow lifecycle: train, register, serve, and monitor
 
 ---
 
@@ -204,7 +204,7 @@ Currently working on:
 | 24  | Enable MLflow Autologging                                              | ✅     | [View](<days/Day 24 - Enable MLflow Autologging.md>) |
 | 25  | Register, Version, and Manage Model Lifecycle                          | ✅     | [View](<days/Day 25 - Register, Version, and Manage Model Lifecycle.md>) |
 | 26  | Compare Model Runs and Select the Best                                 | ✅     | [View](<days/Day 26 - Compare Model Runs and Select the Best.md>) |
-| 27  | Load Model from Registry with Custom Preprocessing                     | ⬜     | Coming Soon |
+| 27  | Load Model from Registry with Custom Preprocessing                     | ✅     | [View](<days/Day 27 - Load Model from Registry with Custom Preprocessing.md>) |
 | 28  | Fix a Broken MLflow Project and Re-Run It                              | ⬜     | Coming Soon |
 | 29  | Configure MLflow with Remote Tracking Server and Artifact Store        | ⬜     | Coming Soon |
 | 30  | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor           | ⬜     | Coming Soon |
