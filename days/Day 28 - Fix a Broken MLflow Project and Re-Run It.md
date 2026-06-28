@@ -9,7 +9,7 @@ The xFusionCorp Industries ML platform team packages their training runs as **M
 2. `/root/code/trainer/` contains:
     
     - `MLproject` – The project descriptor (this file has the bug).
-    - `[train.py](<../assets/Day 28 - train.py>)` – The trainer entry point. This file is correct and must not be modified.
+    - `train.py` – The trainer entry point. This file is correct and must not be modified.
 3. The fix is confined to `MLproject`. Once repaired, two successful `mlflow run` invocations must be recorded in the `trainer` experiment:
     
     - One explicit call: `mlflow run . -e train -P n_estimators=200 -P max_depth=10 --env-manager=local` (run from `/root/code/trainer`).
@@ -25,6 +25,8 @@ The xFusionCorp Industries ML platform team packages their training runs as **M
 ---
 
 Solution
+
+[train.py](<../assets/Day 28 - train.py>) (proivded) Do Not Modify
 
 MLproject (provided)
 
