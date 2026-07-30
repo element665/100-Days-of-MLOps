@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██░░░░░░░░ 28%
+██░░░░░░░░ 29%
 
-Day 28 / 100
+Day 29 / 100
 
 ---
 
@@ -206,7 +206,7 @@ Currently working on:
 | 26  | Compare Model Runs and Select the Best                                 | ✅     | [View](<days/Day 26 - Compare Model Runs and Select the Best.md>) |
 | 27  | Load Model from Registry with Custom Preprocessing                     | ✅     | [View](<days/Day 27 - Load Model from Registry with Custom Preprocessing.md>) |
 | 28  | Fix a Broken MLflow Project and Re-Run It                              | ✅     | [View](<days/Day 28 - Fix a Broken MLflow Project and Re-Run It.md>) |
-| 29  | Configure MLflow with Remote Tracking Server and Artifact Store        | ⬜     | Coming Soon |
+| 29  | Configure MLflow with Remote Tracking Server and Artifact Store        | ✅     | [View](<days/Day 29 - Configure MLflow with Remote Tracking Server and Artifact Store.md>) |
 | 30  | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor           | ⬜     | Coming Soon |
 | 31  | Train a Scikit-Learn Model with Reproducible Script                    | ⬜     | Coming Soon |
 | 32  | Manage Training Configuration with YAML                                | ⬜     | Coming Soon |
