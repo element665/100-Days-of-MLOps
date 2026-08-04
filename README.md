@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██░░░░░░░░ 29%
+███░░░░░░░ 30%
 
-Day 29 / 100
+Day 30 / 100
 
 ---
 
@@ -207,7 +207,7 @@ Currently working on:
 | 27  | Load Model from Registry with Custom Preprocessing                     | ✅     | [View](<days/Day 27 - Load Model from Registry with Custom Preprocessing.md>) |
 | 28  | Fix a Broken MLflow Project and Re-Run It                              | ✅     | [View](<days/Day 28 - Fix a Broken MLflow Project and Re-Run It.md>) |
 | 29  | Configure MLflow with Remote Tracking Server and Artifact Store        | ✅     | [View](<days/Day 29 - Configure MLflow with Remote Tracking Server and Artifact Store.md>) |
-| 30  | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor           | ⬜     | Coming Soon |
+| 30  | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor           | ✅     | [View](<days/Day 30 - End-to-End MLflow; Register, Serve, and Monitor the Champion.md>) |
 | 31  | Train a Scikit-Learn Model with Reproducible Script                    | ⬜     | Coming Soon |
 | 32  | Manage Training Configuration with YAML                                | ⬜     | Coming Soon |
 | 33  | Evaluate a Trained Model and Generate Classification Report            | ⬜     | Coming Soon |
