@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███░░░░░░░ 30%
+███░░░░░░░ 31%
 
-Day 30 / 100
+Day 31 / 100
 
 ---
 
@@ -208,8 +208,8 @@ Currently working on:
 | 28  | Fix a Broken MLflow Project and Re-Run It                              | ✅     | [View](<days/Day 28 - Fix a Broken MLflow Project and Re-Run It.md>) |
 | 29  | Configure MLflow with Remote Tracking Server and Artifact Store        | ✅     | [View](<days/Day 29 - Configure MLflow with Remote Tracking Server and Artifact Store.md>) |
 | 30  | End-to-End MLflow Lifecycle: Train, Register, Serve, Monitor           | ✅     | [View](<days/Day 30 - End-to-End MLflow; Register, Serve, and Monitor the Champion.md>) |
-| 31  | Train a Scikit-Learn Model with Reproducible Script                    | ⬜     | Coming Soon |
-| 32  | Manage Training Configuration with YAML                                | ⬜     | Coming Soon |
+| 31  | Fix a Broken Config-Driven Training Setup                              | ✅     | [View](<days/Day 31 - Fix a Broken Config-Driven Training Setup.md>) |
+| 32  | Make a Training Script Reproducible (Seed Discipline)                  | ⬜     | Coming Soon |
 | 33  | Evaluate a Trained Model and Generate Classification Report            | ⬜     | Coming Soon |
 | 34  | Implement Cross-Validation for Model Selection                         | ⬜     | Coming Soon |
 | 35  | Hyperparameter Tuning with Optuna                                      | ⬜     | Coming Soon |
