@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███░░░░░░░ 33%
+███░░░░░░░ 34%
 
-Day 33 / 100
+Day 34 / 100
 
 ---
 
@@ -211,7 +211,7 @@ Currently working on:
 | 31  | Fix a Broken Config-Driven Training Setup                              | ✅     | [View](<days/Day 31 - Fix a Broken Config-Driven Training Setup.md>) |
 | 32  | Make a Training Script Reproducible (Seed Discipline)                  | ✅     | [View](<days/Day 32 - Make a Training Script Reproducible (Seed Discipline).md>) |
 | 33  | Fix a Broken Evaluation Script and Metrics Report.                     | ✅     | [View](<days/Day 33 - Fix a Broken Evaluation Script and Metrics Report.md>) |
-| 34  | Implement Cross-Validation for Model Selection                         | ⬜     | Coming Soon |
+| 34  | Fix a Broken Cross-Validation Loop (Stratified + Aggregates)           | ✅     | [View](<days/Day 34 - Fix a Broken Cross-Validation Loop (Stratified + Aggregates).md>) |
 | 35  | Hyperparameter Tuning with Optuna                                      | ⬜     | Coming Soon |
 | 36  | Automated Model Selection with FLAML AutoML                            | ⬜     | Coming Soon |
 | 37  | Distributed Model Training with Joblib Parallelization                 | ⬜     | Coming Soon |
