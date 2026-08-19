@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███░░░░░░░ 34%
+███░░░░░░░ 35%
 
-Day 34 / 100
+Day 35 / 100
 
 ---
 
@@ -212,7 +212,7 @@ Currently working on:
 | 32  | Make a Training Script Reproducible (Seed Discipline)                  | ✅     | [View](<days/Day 32 - Make a Training Script Reproducible (Seed Discipline).md>) |
 | 33  | Fix a Broken Evaluation Script and Metrics Report.                     | ✅     | [View](<days/Day 33 - Fix a Broken Evaluation Script and Metrics Report.md>) |
 | 34  | Fix a Broken Cross-Validation Loop (Stratified + Aggregates)           | ✅     | [View](<days/Day 34 - Fix a Broken Cross-Validation Loop (Stratified + Aggregates).md>) |
-| 35  | Hyperparameter Tuning with Optuna                                      | ⬜     | Coming Soon |
+| 35  | Fix a Broken Optuna Tuner with MLflow Logging                          | ✅     | [View](<days/Day 35 - Fix a Broken Optuna Tuner with MLflow Logging.md>) |
 | 36  | Automated Model Selection with FLAML AutoML                            | ⬜     | Coming Soon |
 | 37  | Distributed Model Training with Joblib Parallelization                 | ⬜     | Coming Soon |
 | 38  | Build Modular Training Pipeline with Config-Driven Stages              | ⬜     | Coming Soon |
