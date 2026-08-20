@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███░░░░░░░ 35%
+███░░░░░░░ 36%
 
-Day 35 / 100
+Day 36 / 100
 
 ---
 
@@ -213,7 +213,7 @@ Currently working on:
 | 33  | Fix a Broken Evaluation Script and Metrics Report.                     | ✅     | [View](<days/Day 33 - Fix a Broken Evaluation Script and Metrics Report.md>) |
 | 34  | Fix a Broken Cross-Validation Loop (Stratified + Aggregates)           | ✅     | [View](<days/Day 34 - Fix a Broken Cross-Validation Loop (Stratified + Aggregates).md>) |
 | 35  | Fix a Broken Optuna Tuner with MLflow Logging                          | ✅     | [View](<days/Day 35 - Fix a Broken Optuna Tuner with MLflow Logging.md>) |
-| 36  | Automated Model Selection with FLAML AutoML                            | ⬜     | Coming Soon |
+| 36  | Fix a Multi-Model Bake-Off in the MLflow Compare View                  | ✅     | [View](<days/Day 36 - Fix a Multi-Model Bake-Off in the MLflow Compare View.md>) |
 | 37  | Distributed Model Training with Joblib Parallelization                 | ⬜     | Coming Soon |
 | 38  | Build Modular Training Pipeline with Config-Driven Stages              | ⬜     | Coming Soon |
 | 39  | Train a PyTorch Model with GPU Support and Checkpointing               | ⬜     | Coming Soon |
