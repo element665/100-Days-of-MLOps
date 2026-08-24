@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███░░░░░░░ 36%
+███░░░░░░░ 37%
 
-Day 36 / 100
+Day 37 / 100
 
 ---
 
@@ -214,7 +214,7 @@ Currently working on:
 | 34  | Fix a Broken Cross-Validation Loop (Stratified + Aggregates)           | ✅     | [View](<days/Day 34 - Fix a Broken Cross-Validation Loop (Stratified + Aggregates).md>) |
 | 35  | Fix a Broken Optuna Tuner with MLflow Logging                          | ✅     | [View](<days/Day 35 - Fix a Broken Optuna Tuner with MLflow Logging.md>) |
 | 36  | Fix a Multi-Model Bake-Off in the MLflow Compare View                  | ✅     | [View](<days/Day 36 - Fix a Multi-Model Bake-Off in the MLflow Compare View.md>) |
-| 37  | Distributed Model Training with Joblib Parallelization                 | ⬜     | Coming Soon |
+| 37  | Fix a Four-Stage Training Pipeline's Inter-Stage WiringStart           | ✅     | [View](<days/Day 37 - Fix a Four-Stage Training Pipeline's Inter-Stage WiringStart.md>) |
 | 38  | Build Modular Training Pipeline with Config-Driven Stages              | ⬜     | Coming Soon |
 | 39  | Train a PyTorch Model with GPU Support and Checkpointing               | ⬜     | Coming Soon |
 | 40  | Production Training System: Tracking, Tuning, and Model Selection      | ⬜     | Coming Soon |
