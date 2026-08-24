@@ -1,0 +1,21 @@
+data:
+  raw_path: data/raw/train.csv
+  processed_path: data/processed/train_clean.csv
+  features_path: data/features/features.csv
+  target_column: is_fraud
+  test_size: 0.3
+  random_state: 42
+
+model:
+  type: RandomForestClassifier
+  n_estimators: 100
+  max_depth: 10
+  random_state: 42
+
+output:
+  model_path: models/model.pkl
+  report_path: reports/evaluation.json
+
+mlflow:
+  tracking_uri: http://localhost:5000
+  experiment_name: training-pipeline
