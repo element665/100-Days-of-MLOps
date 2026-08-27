@@ -1,0 +1,254 @@
+Prompt
+
+The xFusionCorp Industries ML platform team is conducting a parallel-training bake-off for the fraud-detection model. The same estimator is to be trained twice: once on a single worker and once across all available CPUs. The MLflow Compare view will be utilized to highlight any differences in wall time. A draft script is located at `/root/code/fraud-detection/src/models/train_parallel.py`. Currently, executing this script yields nearly identical wall times for both the 'serial' and 'parallel' runs, resulting in the Compare view being unable to differentiate between the two configurations. Your task is to modify the script to ensure that the second run executes in genuine parallel mode. Additionally, each training run must log the actual number of workers utilized, and the observed parallelization speedup must be recorded.
+
+  
+
+1. The MLflow tracking server is already running on port `5000`. The **MLflow UI** button at the top of the lab can be opened to confirm—the dashboard loads with an empty `parallel-training` experiment.
+    
+2. The project layout under `/root/code/fraud-detection/`:
+    
+    - `data/train.csv` – A 5000-row synthetic binary-classification dataset (imbalanced roughly 70 / 30). Larger than the 200-row dataset used earlier in the section because the `n_jobs`speedup is only visible once there is enough work per tree.
+    - `src/models/train_parallel.py` – The bake-off script. Data loading, MLflow experiment setup, wall-time measurement, `metrics.training_time_seconds` logging, and model persistence to `models/model.pkl` are already wired; the corrections are confined to this file.
+3. Run the script once against the scaffold as-is—`python src/models/train_parallel.py`—and note that both runs report near-identical wall times.
+    
+4. The end state must include:
+    
+    - At least two training runs exist in the `parallel-training` experiment, with `params.n_jobs`taking the values `1` and `-1`.
+    - Each training run carries `metrics.training_time_seconds`, recorded for both the single-worker (`n_jobs = 1`) and all-cores (`n_jobs = -1`) configurations.
+    - A `speedup-summary` run logs a `speedup` metric equal to the serial wall time divided by the parallel wall time. (The exact magnitude depends on the container's core count and load; on a 2-CPU box the all-cores run is typically faster.)
+    - A pickled model at `/root/code/fraud-detection/models/model.pkl`.
+
+---
+
+Solution
+
+train_parallel.py (Original)
+
+```python
+"""Parallel training bake-off for the fraud-detection model.
+
+Trains the same RandomForestClassifier twice — once on a single
+worker, once across every available CPU — so the two configurations
+can be compared side-by-side in the MLflow UI. Every run logs the
+measured wall time as `metrics.training_time_seconds` and the
+`n_jobs` value actually used under `params.n_jobs`.
+
+Every non-end-state concern is correctly wired — data loading, CV
+split, MLflow experiment setup, per-run wall-time collection, model
+persistence. Adjust the `N_JOBS_VALUES` list and the
+`mlflow.log_param` call so the second run actually runs in parallel
+and the logged `n_jobs` parameter distinguishes the two runs in the
+UI, then log the measured parallelization speedup (TODO at the end).
+"""
+import os
+import time
+
+import joblib
+import mlflow
+import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+
+TRACKING_URI = "http://localhost:5000"
+EXPERIMENT = "parallel-training"
+TRAIN_CSV = "/root/code/fraud-detection/data/train.csv"
+MODEL_PATH = "/root/code/fraud-detection/models/model.pkl"
+
+N_ESTIMATORS = 200
+RANDOM_STATE = 42
+
+N_JOBS_VALUES = [1, 1]
+
+
+def main():
+    mlflow.set_tracking_uri(TRACKING_URI)
+    mlflow.set_experiment(EXPERIMENT)
+
+    df = pd.read_csv(TRAIN_CSV)
+    X = df.drop(columns=["is_fraud"])
+    y = df["is_fraud"]
+
+    last_model = None
+    times = {}  # n_jobs -> measured wall time, for the speedup summary
+    for n_jobs in N_JOBS_VALUES:
+        run_name = "serial" if n_jobs == 1 else "parallel"
+        with mlflow.start_run(run_name=run_name):
+            mlflow.log_param("n_jobs", "all")
+            mlflow.log_param("n_estimators", N_ESTIMATORS)
+
+            model = RandomForestClassifier(
+                n_estimators=N_ESTIMATORS,
+                random_state=RANDOM_STATE,
+                n_jobs=n_jobs,
+            )
+            start = time.perf_counter()
+            model.fit(X, y)
+            elapsed = time.perf_counter() - start
+
+            mlflow.log_metric("training_time_seconds", elapsed)
+            times[n_jobs] = elapsed
+            print(
+                f"[{run_name}] n_jobs={n_jobs}  "
+                f"training_time_seconds={elapsed:.3f}"
+            )
+            last_model = model
+
+    # TODO: log the parallelization speedup. Open one more MLflow run
+    # named "speedup-summary" and log a metric named "speedup" equal to
+    # the serial wall time divided by the parallel wall time
+    # (times[1] / times[-1]) — how many times faster the parallel run
+    # was. Use mlflow.start_run(run_name="speedup-summary") and
+    # mlflow.log_metric(...).
+
+    os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
+    joblib.dump(last_model, MODEL_PATH)
+    print(f"Model saved to {MODEL_PATH}")
+
+
+if __name__ == "__main__":
+    main()
+```
+
+Run script against the scaffold as-is once as lab instructs
+
+```shell
+cd fraud-detection/
+python src/models/train_parallel.py
+```
+
+Output
+
+```shell
+[serial] n_jobs=1  training_time_seconds=0.728
+🏃 View run serial at: http://localhost:5000/#/experiments/1/runs/4a89f1d7a5c547fcbf844579326cff59
+🧪 View experiment at: http://localhost:5000/#/experiments/1
+[serial] n_jobs=1  training_time_seconds=0.760
+🏃 View run serial at: http://localhost:5000/#/experiments/1/runs/5d6607e4abe7484698d7a4ffb064f8d3
+🧪 View experiment at: http://localhost:5000/#/experiments/1
+Model saved to /root/code/fraud-detection/models/model.pkl
+```
+
+
+Changes required on script
+- N_JOBS_VALUES [1, 1] -> [1, -1]
+- n_jobs parameter ("n_jobs", "all") -> ("n_jobs", n_jobs)
+- TODO section
+
+train_parallel.py (Updated)
+
+```python
+"""Parallel training bake-off for the fraud-detection model.
+
+Trains the same RandomForestClassifier twice — once on a single
+worker, once across every available CPU — so the two configurations
+can be compared side-by-side in the MLflow UI. Every run logs the
+measured wall time as `metrics.training_time_seconds` and the
+`n_jobs` value actually used under `params.n_jobs`.
+
+Every non-end-state concern is correctly wired — data loading, CV
+split, MLflow experiment setup, per-run wall-time collection, model
+persistence. Adjust the `N_JOBS_VALUES` list and the
+`mlflow.log_param` call so the second run actually runs in parallel
+and the logged `n_jobs` parameter distinguishes the two runs in the
+UI, then log the measured parallelization speedup (TODO at the end).
+"""
+import os
+import time
+
+import joblib
+import mlflow
+import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
+
+TRACKING_URI = "http://localhost:5000"
+EXPERIMENT = "parallel-training"
+TRAIN_CSV = "/root/code/fraud-detection/data/train.csv"
+MODEL_PATH = "/root/code/fraud-detection/models/model.pkl"
+
+N_ESTIMATORS = 200
+RANDOM_STATE = 42
+
+N_JOBS_VALUES = [1, -1]
+
+
+def main():
+    mlflow.set_tracking_uri(TRACKING_URI)
+    mlflow.set_experiment(EXPERIMENT)
+
+    df = pd.read_csv(TRAIN_CSV)
+    X = df.drop(columns=["is_fraud"])
+    y = df["is_fraud"]
+
+    last_model = None
+    times = {}  # n_jobs -> measured wall time, for the speedup summary
+    for n_jobs in N_JOBS_VALUES:
+        run_name = "serial" if n_jobs == 1 else "parallel"
+        with mlflow.start_run(run_name=run_name):
+            mlflow.log_param("n_jobs", n_jobs)
+            mlflow.log_param("n_estimators", N_ESTIMATORS)
+
+            model = RandomForestClassifier(
+                n_estimators=N_ESTIMATORS,
+                random_state=RANDOM_STATE,
+                n_jobs=n_jobs,
+            )
+            start = time.perf_counter()
+            model.fit(X, y)
+            elapsed = time.perf_counter() - start
+
+            mlflow.log_metric("training_time_seconds", elapsed)
+            times[n_jobs] = elapsed
+            print(
+                f"[{run_name}] n_jobs={n_jobs}  "
+                f"training_time_seconds={elapsed:.3f}"
+            )
+            last_model = model
+
+    # TODO: log the parallelization speedup. Open one more MLflow run
+    # named "speedup-summary" and log a metric named "speedup" equal to
+    # the serial wall time divided by the parallel wall time
+    # (times[1] / times[-1]) — how many times faster the parallel run
+    # was. Use mlflow.start_run(run_name="speedup-summary") and
+    # mlflow.log_metric(...).
+
+    with mlflow.start_run(run_name="speedup-summary"):
+	    mlflow.log_metric("speedup", times[1] / times[-1])
+
+    os.makedirs(os.path.dirname(MODEL_PATH), exist_ok=True)
+    joblib.dump(last_model, MODEL_PATH)
+    print(f"Model saved to {MODEL_PATH}")
+
+
+if __name__ == "__main__":
+    main()
+```
+
+Run updated script
+
+```shell
+python src/models/train_parallel.py
+```
+
+Output
+
+```shell
+[serial] n_jobs=1  training_time_seconds=0.768
+🏃 View run serial at: http://localhost:5000/#/experiments/1/runs/2e479a4804bc4667ba86c28c6e487e45
+🧪 View experiment at: http://localhost:5000/#/experiments/1
+[parallel] n_jobs=-1  training_time_seconds=0.465
+🏃 View run parallel at: http://localhost:5000/#/experiments/1/runs/f9e71296217146f0a173916c6a7e8d62
+🧪 View experiment at: http://localhost:5000/#/experiments/1
+🏃 View run speedup-summary at: http://localhost:5000/#/experiments/1/runs/6eb41e0ff68f4593ad6106aa3bc4be18
+🧪 View experiment at: http://localhost:5000/#/experiments/1
+Model saved to /root/code/fraud-detection/models/model.pkl
+```
+
+MLflow UI Verification
+
+Screenshot showing models in Compare View
+
+![screenshot_compare_view](<../screenshots/Screenshot Day 38 Compare View.png>)
+
+Screenshot showing details of speedup-summary
+
+![screenshot_speedup_summary](<../screenshots/Screenshot Day 38 speedup-summary.png>)
