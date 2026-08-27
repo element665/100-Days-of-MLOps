@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███░░░░░░░ 37%
+███░░░░░░░ 38%
 
-Day 37 / 100
+Day 38 / 100
 
 ---
 
@@ -215,7 +215,7 @@ Currently working on:
 | 35  | Fix a Broken Optuna Tuner with MLflow Logging                          | ✅     | [View](<days/Day 35 - Fix a Broken Optuna Tuner with MLflow Logging.md>) |
 | 36  | Fix a Multi-Model Bake-Off in the MLflow Compare View                  | ✅     | [View](<days/Day 36 - Fix a Multi-Model Bake-Off in the MLflow Compare View.md>) |
 | 37  | Fix a Four-Stage Training Pipeline's Inter-Stage WiringStart           | ✅     | [View](<days/Day 37 - Fix a Four-Stage Training Pipeline's Inter-Stage WiringStart.md>) |
-| 38  | Build Modular Training Pipeline with Config-Driven Stages              | ⬜     | Coming Soon |
+| 38  | Fix a Parallel-Training Bake-Off (n_jobs Backend).                     | ✅     | [View](<days/Day 38 - Fix a Parallel-Training Bake-Off (n_jobs Backend).md>) |
 | 39  | Train a PyTorch Model with GPU Support and Checkpointing               | ⬜     | Coming Soon |
 | 40  | Production Training System: Tracking, Tuning, and Model Selection      | ⬜     | Coming Soon |
 | 41  | Install and Initialize a Feast Feature Store                           | ⬜     | Coming Soon |
