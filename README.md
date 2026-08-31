@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███░░░░░░░ 38%
+███░░░░░░░ 39%
 
-Day 38 / 100
+Day 39 / 100
 
 ---
 
@@ -216,7 +216,7 @@ Currently working on:
 | 36  | Fix a Multi-Model Bake-Off in the MLflow Compare View                  | ✅     | [View](<days/Day 36 - Fix a Multi-Model Bake-Off in the MLflow Compare View.md>) |
 | 37  | Fix a Four-Stage Training Pipeline's Inter-Stage WiringStart           | ✅     | [View](<days/Day 37 - Fix a Four-Stage Training Pipeline's Inter-Stage WiringStart.md>) |
 | 38  | Fix a Parallel-Training Bake-Off (n_jobs Backend).                     | ✅     | [View](<days/Day 38 - Fix a Parallel-Training Bake-Off (n_jobs Backend).md>) |
-| 39  | Train a PyTorch Model with GPU Support and Checkpointing               | ⬜     | Coming Soon |
+| 39  | Make a PyTorch Trainer Device-Aware with Checkpointing                 | ✅     | [View](<days/Day 39 - Make a PyTorch Trainer Device-Aware with Checkpointing.md>) |
 | 40  | Production Training System: Tracking, Tuning, and Model Selection      | ⬜     | Coming Soon |
 | 41  | Install and Initialize a Feast Feature Store                           | ⬜     | Coming Soon |
 | 42  | Define Feature Views in Feast                                          | ⬜     | Coming Soon |
