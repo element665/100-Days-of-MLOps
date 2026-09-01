@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███░░░░░░░ 39%
+████░░░░░░ 40%
 
-Day 39 / 100
+Day 40 / 100
 
 ---
 
@@ -217,7 +217,7 @@ Currently working on:
 | 37  | Fix a Four-Stage Training Pipeline's Inter-Stage WiringStart           | ✅     | [View](<days/Day 37 - Fix a Four-Stage Training Pipeline's Inter-Stage WiringStart.md>) |
 | 38  | Fix a Parallel-Training Bake-Off (n_jobs Backend).                     | ✅     | [View](<days/Day 38 - Fix a Parallel-Training Bake-Off (n_jobs Backend).md>) |
 | 39  | Make a PyTorch Trainer Device-Aware with Checkpointing                 | ✅     | [View](<days/Day 39 - Make a PyTorch Trainer Device-Aware with Checkpointing.md>) |
-| 40  | Production Training System: Tracking, Tuning, and Model Selection      | ⬜     | Coming Soon |
+| 40  | Fix and Complete a Five-Stage Training Capstone.                       | ✅     | [View](<days/Day 40 - Fix and Complete a Five-Stage Training Capstone.md>) |
 | 41  | Install and Initialize a Feast Feature Store                           | ⬜     | Coming Soon |
 | 42  | Define Feature Views in Feast                                          | ⬜     | Coming Soon |
 | 43  | Materialize Features to the Online Store                               | ⬜     | Coming Soon |
