@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████░░░░░░ 40%
+████░░░░░░ 41%
 
-Day 40 / 100
+Day 41 / 100
 
 ---
 
@@ -218,7 +218,7 @@ Currently working on:
 | 38  | Fix a Parallel-Training Bake-Off (n_jobs Backend).                     | ✅     | [View](<days/Day 38 - Fix a Parallel-Training Bake-Off (n_jobs Backend).md>) |
 | 39  | Make a PyTorch Trainer Device-Aware with Checkpointing                 | ✅     | [View](<days/Day 39 - Make a PyTorch Trainer Device-Aware with Checkpointing.md>) |
 | 40  | Fix and Complete a Five-Stage Training Capstone.                       | ✅     | [View](<days/Day 40 - Fix and Complete a Five-Stage Training Capstone.md>) |
-| 41  | Install and Initialize a Feast Feature Store                           | ⬜     | Coming Soon |
+| 41  | Scaffold a Feast Feature Repository and Build a Training Set           | ✅     | [View](<days/Day 41 - Scaffold a Feast Feature Repository and Build a Training Set.md>) |
 | 42  | Define Feature Views in Feast                                          | ⬜     | Coming Soon |
 | 43  | Materialize Features to the Online Store                               | ⬜     | Coming Soon |
 | 44  | Store MLflow's Admin Password in HashiCorp Vault                       | ⬜     | Coming Soon |
