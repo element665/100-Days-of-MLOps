@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████░░░░░░ 41%
+████░░░░░░ 42%
 
-Day 41 / 100
+Day 42 / 100
 
 ---
 
@@ -219,7 +219,7 @@ Currently working on:
 | 39  | Make a PyTorch Trainer Device-Aware with Checkpointing                 | ✅     | [View](<days/Day 39 - Make a PyTorch Trainer Device-Aware with Checkpointing.md>) |
 | 40  | Fix and Complete a Five-Stage Training Capstone.                       | ✅     | [View](<days/Day 40 - Fix and Complete a Five-Stage Training Capstone.md>) |
 | 41  | Scaffold a Feast Feature Repository and Build a Training Set           | ✅     | [View](<days/Day 41 - Scaffold a Feast Feature Repository and Build a Training Set.md>) |
-| 42  | Define Feature Views in Feast                                          | ⬜     | Coming Soon |
+| 42  | Define a Feast Feature View (Entity + Field Schema)                    | ✅     | [View](<days/Day 42 - Define a Feast Feature View (Entity + Field Schema).md>) |
 | 43  | Materialize Features to the Online Store                               | ⬜     | Coming Soon |
 | 44  | Store MLflow's Admin Password in HashiCorp Vault                       | ⬜     | Coming Soon |
 | 45  | Fix a Broken Vault KV Policy for the MLflow Reader                     | ⬜     | Coming Soon |
