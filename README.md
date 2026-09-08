@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████░░░░░░ 43%
+████░░░░░░ 44%
 
-Day 43 / 100
+Day 44 / 100
 
 ---
 
@@ -221,7 +221,7 @@ Currently working on:
 | 41  | Scaffold a Feast Feature Repository and Build a Training Set           | ✅     | [View](<days/Day 41 - Scaffold a Feast Feature Repository and Build a Training Set.md>) |
 | 42  | Define a Feast Feature View (Entity + Field Schema)                    | ✅     | [View](<days/Day 42 - Define a Feast Feature View (Entity + Field Schema).md>) |
 | 43  | Materialize Features and Read Them from the Online Store               | ✅     | [View](<days/Day 43 - Materialize Features and Read Them from the Online Store.md>) |
-| 44  | Store MLflow's Admin Password in HashiCorp Vault                       | ⬜     | Coming Soon |
+| 44  | Store MLflow's Admin Password in HashiCorp Vault                       | ✅     | [View](<days/Day 44 - Store MLflow's Admin Password in HashiCorp Vault.md>) |
 | 45  | Fix a Broken Vault KV Policy for the MLflow Reader                     | ⬜     | Coming Soon |
 | 46  | Author Data-Quality Expectations with Great Expectations               | ⬜     | Coming Soon |
 | 47  | Debug a Failing Great Expectations Checkpoint                          | ⬜     | Coming Soon |
