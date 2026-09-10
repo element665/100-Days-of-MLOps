@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████░░░░░░ 44%
+████░░░░░░ 45%
 
-Day 44 / 100
+Day 45 / 100
 
 ---
 
@@ -222,7 +222,7 @@ Currently working on:
 | 42  | Define a Feast Feature View (Entity + Field Schema)                    | ✅     | [View](<days/Day 42 - Define a Feast Feature View (Entity + Field Schema).md>) |
 | 43  | Materialize Features and Read Them from the Online Store               | ✅     | [View](<days/Day 43 - Materialize Features and Read Them from the Online Store.md>) |
 | 44  | Store MLflow's Admin Password in HashiCorp Vault                       | ✅     | [View](<days/Day 44 - Store MLflow's Admin Password in HashiCorp Vault.md>) |
-| 45  | Fix a Broken Vault KV Policy for the MLflow Reader                     | ⬜     | Coming Soon |
+| 45  | Authenticate MLflow to Vault via AppRole and Fix Its KV Policy         | ✅     | [View](<days/Day 45 - Authenticate MLflow to Vault via AppRole and Fix Its KV Policy.md>) |
 | 46  | Author Data-Quality Expectations with Great Expectations               | ⬜     | Coming Soon |
 | 47  | Debug a Failing Great Expectations Checkpoint                          | ⬜     | Coming Soon |
 | 48  | Publish Great Expectations Data Docs as a CI Artefact                  | ⬜     | Coming Soon |
