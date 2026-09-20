@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████░░░░░░ 45%
+████░░░░░░ 46%
 
-Day 45 / 100
+Day 46 / 100
 
 ---
 
@@ -223,7 +223,7 @@ Currently working on:
 | 43  | Materialize Features and Read Them from the Online Store               | ✅     | [View](<days/Day 43 - Materialize Features and Read Them from the Online Store.md>) |
 | 44  | Store MLflow's Admin Password in HashiCorp Vault                       | ✅     | [View](<days/Day 44 - Store MLflow's Admin Password in HashiCorp Vault.md>) |
 | 45  | Authenticate MLflow to Vault via AppRole and Fix Its KV Policy         | ✅     | [View](<days/Day 45 - Authenticate MLflow to Vault via AppRole and Fix Its KV Policy.md>) |
-| 46  | Author Data-Quality Expectations with Great Expectations               | ⬜     | Coming Soon |
+| 46  | Author Data-Quality Expectations with Great Expectations               | ✅     | [View](<days/Day 46 - Author Data-Quality Expectations with Great Expectations.md>) |
 | 47  | Debug a Failing Great Expectations Checkpoint                          | ⬜     | Coming Soon |
 | 48  | Publish Great Expectations Data Docs as a CI Artefact                  | ⬜     | Coming Soon |
 | 49  | Secrets + Data-Quality Integration Capstone                            | ⬜     | Coming Soon |
