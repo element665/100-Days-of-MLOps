@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████░░░░░░ 46%
+████░░░░░░ 47%
 
-Day 46 / 100
+Day 47 / 100
 
 ---
 
@@ -224,7 +224,7 @@ Currently working on:
 | 44  | Store MLflow's Admin Password in HashiCorp Vault                       | ✅     | [View](<days/Day 44 - Store MLflow's Admin Password in HashiCorp Vault.md>) |
 | 45  | Authenticate MLflow to Vault via AppRole and Fix Its KV Policy         | ✅     | [View](<days/Day 45 - Authenticate MLflow to Vault via AppRole and Fix Its KV Policy.md>) |
 | 46  | Author Data-Quality Expectations with Great Expectations               | ✅     | [View](<days/Day 46 - Author Data-Quality Expectations with Great Expectations.md>) |
-| 47  | Debug a Failing Great Expectations Checkpoint                          | ⬜     | Coming Soon |
+| 47  | Debug a Failing Great Expectations Checkpoint                          | ✅     | [View](<days/Day 47 - Debug a Failing Great Expectations Checkpoint.md>) |
 | 48  | Publish Great Expectations Data Docs as a CI Artefact                  | ⬜     | Coming Soon |
 | 49  | Secrets + Data-Quality Integration Capstone                            | ⬜     | Coming Soon |
 | 50  | Create Docker Image for ML Training Environment                        | ⬜     | Coming Soon |
