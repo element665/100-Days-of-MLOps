@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████░░░░░░ 47%
+████░░░░░░ 48%
 
-Day 47 / 100
+Day 48 / 100
 
 ---
 
@@ -225,7 +225,7 @@ Currently working on:
 | 45  | Authenticate MLflow to Vault via AppRole and Fix Its KV Policy         | ✅     | [View](<days/Day 45 - Authenticate MLflow to Vault via AppRole and Fix Its KV Policy.md>) |
 | 46  | Author Data-Quality Expectations with Great Expectations               | ✅     | [View](<days/Day 46 - Author Data-Quality Expectations with Great Expectations.md>) |
 | 47  | Debug a Failing Great Expectations Checkpoint                          | ✅     | [View](<days/Day 47 - Debug a Failing Great Expectations Checkpoint.md>) |
-| 48  | Publish Great Expectations Data Docs as a CI Artefact                  | ⬜     | Coming Soon |
+| 48  | Enforce a Data-Quality Checkpoint as a Blocking CI Gate                | ✅     | [View](<days/Day 48 - Enforce a Data-Quality Checkpoint as a Blocking CI Gate.md>) |
 | 49  | Secrets + Data-Quality Integration Capstone                            | ⬜     | Coming Soon |
 | 50  | Create Docker Image for ML Training Environment                        | ⬜     | Coming Soon |
 | 51  | Create Multi-Stage Docker Build for ML Serving                         | ⬜     | Coming Soon |
