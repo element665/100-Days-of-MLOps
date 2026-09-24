@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████░░░░░░ 48%
+████░░░░░░ 49%
 
-Day 48 / 100
+Day 49 / 100
 
 ---
 
@@ -226,7 +226,7 @@ Currently working on:
 | 46  | Author Data-Quality Expectations with Great Expectations               | ✅     | [View](<days/Day 46 - Author Data-Quality Expectations with Great Expectations.md>) |
 | 47  | Debug a Failing Great Expectations Checkpoint                          | ✅     | [View](<days/Day 47 - Debug a Failing Great Expectations Checkpoint.md>) |
 | 48  | Enforce a Data-Quality Checkpoint as a Blocking CI Gate                | ✅     | [View](<days/Day 48 - Enforce a Data-Quality Checkpoint as a Blocking CI Gate.md>) |
-| 49  | Secrets + Data-Quality Integration Capstone                            | ⬜     | Coming Soon |
+| 49  | Secrets + Data-Quality Integration Capstone                            | ✅     | [Coming Soon](<days/Day 49 - Secrets + Data-Quality Integration Capstone.md>) |
 | 50  | Create Docker Image for ML Training Environment                        | ⬜     | Coming Soon |
 | 51  | Create Multi-Stage Docker Build for ML Serving                         | ⬜     | Coming Soon |
 | 52  | Set Up Local ML Dev Environment with Docker Compose                    | ⬜     | Coming Soon |
