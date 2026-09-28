@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█████░░░░░ 51%
+█████░░░░░ 52%
 
-Day 51 / 100
+Day 52 / 100
 
 ---
 
@@ -229,7 +229,7 @@ Currently working on:
 | 49  | Secrets + Data-Quality Integration Capstone                            | ✅     | [View](<days/Day 49 - Secrets + Data-Quality Integration Capstone.md>) |
 | 50  | Create Docker Image for ML Training Environment                        | ✅     | [View](<days/Day 50 - Create Docker Image for ML Training Environment.md>) |
 | 51  | Create Multi-Stage Docker Build for ML Serving                         | ✅     | [View](<days/Day 51 - Create Multi-Stage Docker Build for ML Serving.md>) |
-| 52  | Set Up Local ML Dev Environment with Docker Compose                    | ⬜     | Coming Soon |
+| 52  | Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack                | ✅     | [View](<days/Day 52 - Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack.md>) |
 | 53  | Create GPU-Enabled Docker Image for Deep Learning                      | ⬜     | Coming Soon |
 | 54  | Push ML Model Images to Container Registry                             | ⬜     | Coming Soon |
 | 55  | Add Health Checks and Graceful Shutdown to ML Containers               | ⬜     | Coming Soon |
