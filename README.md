@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█████░░░░░ 52%
+█████░░░░░ 53%
 
-Day 52 / 100
+Day 53 / 100
 
 ---
 
@@ -230,7 +230,7 @@ Currently working on:
 | 50  | Create Docker Image for ML Training Environment                        | ✅     | [View](<days/Day 50 - Create Docker Image for ML Training Environment.md>) |
 | 51  | Create Multi-Stage Docker Build for ML Serving                         | ✅     | [View](<days/Day 51 - Create Multi-Stage Docker Build for ML Serving.md>) |
 | 52  | Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack                | ✅     | [View](<days/Day 52 - Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack.md>) |
-| 53  | Create GPU-Enabled Docker Image for Deep Learning                      | ⬜     | Coming Soon |
+| 53  | Fix a Broken PyTorch Dockerfile (CPU-Wheel URL)                        | ✅     | [View](<days/Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md>) |
 | 54  | Push ML Model Images to Container Registry                             | ⬜     | Coming Soon |
 | 55  | Add Health Checks and Graceful Shutdown to ML Containers               | ⬜     | Coming Soon |
 | 56  | Automate ML Docker Image Building in CI Pipeline                       | ⬜     | Coming Soon |
