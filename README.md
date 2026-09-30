@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█████░░░░░ 53%
+█████░░░░░ 54%
 
-Day 53 / 100
+Day 54 / 100
 
 ---
 
@@ -231,7 +231,7 @@ Currently working on:
 | 51  | Create Multi-Stage Docker Build for ML Serving                         | ✅     | [View](<days/Day 51 - Create Multi-Stage Docker Build for ML Serving.md>) |
 | 52  | Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack                | ✅     | [View](<days/Day 52 - Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack.md>) |
 | 53  | Fix a Broken PyTorch Dockerfile (CPU-Wheel URL)                        | ✅     | [View](<days/Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md>) |
-| 54  | Push ML Model Images to Container Registry                             | ⬜     | Coming Soon |
+| 54  | Push ML Model Images to Container Registry                             | ✅     | [View](<days/Day 54 - Push ML Model Images to Container Registry.md>) |
 | 55  | Add Health Checks and Graceful Shutdown to ML Containers               | ⬜     | Coming Soon |
 | 56  | Automate ML Docker Image Building in CI Pipeline                       | ⬜     | Coming Soon |
 | 57  | Serve an ML Model with Flask                                           | ⬜     | Coming Soon |
