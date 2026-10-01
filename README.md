@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█████░░░░░ 54%
+█████░░░░░ 55%
 
-Day 54 / 100
+Day 55 / 100
 
 ---
 
@@ -232,7 +232,7 @@ Currently working on:
 | 52  | Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack                | ✅     | [View](<days/Day 52 - Fix a Broken Jupyter + MLflow + SeaweedFS Compose Stack.md>) |
 | 53  | Fix a Broken PyTorch Dockerfile (CPU-Wheel URL)                        | ✅     | [View](<days/Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md>) |
 | 54  | Push ML Model Images to Container Registry                             | ✅     | [View](<days/Day 54 - Push ML Model Images to Container Registry.md>) |
-| 55  | Add Health Checks and Graceful Shutdown to ML Containers               | ⬜     | Coming Soon |
+| 55  | Fix a Broken Dockerfile HEALTHCHECK and EXPOSE                         | ✅     | [View](<days/Day 55 - Fix a Broken Dockerfile HEALTHCHECK and EXPOSE.md>) |
 | 56  | Automate ML Docker Image Building in CI Pipeline                       | ⬜     | Coming Soon |
 | 57  | Serve an ML Model with Flask                                           | ⬜     | Coming Soon |
 | 58  | Serve an ML Model with FastAPI                                         | ⬜     | Coming Soon |
