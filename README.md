@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█████░░░░░ 55%
+█████░░░░░ 56%
 
-Day 55 / 100
+Day 56 / 100
 
 ---
 
@@ -233,7 +233,7 @@ Currently working on:
 | 53  | Fix a Broken PyTorch Dockerfile (CPU-Wheel URL)                        | ✅     | [View](<days/Day 53 - Fix a Broken PyTorch Dockerfile (CPU-Wheel URL).md>) |
 | 54  | Push ML Model Images to Container Registry                             | ✅     | [View](<days/Day 54 - Push ML Model Images to Container Registry.md>) |
 | 55  | Fix a Broken Dockerfile HEALTHCHECK and EXPOSE                         | ✅     | [View](<days/Day 55 - Fix a Broken Dockerfile HEALTHCHECK and EXPOSE.md>) |
-| 56  | Automate ML Docker Image Building in CI Pipeline                       | ⬜     | Coming Soon |
+| 56  | Fix a Docker CI Pipeline with Git-SHA Tagging                          | ✅     | [View](<days/Day 56 - Fix a Docker CI Pipeline with Git-SHA Tagging.md>) |
 | 57  | Serve an ML Model with Flask                                           | ⬜     | Coming Soon |
 | 58  | Serve an ML Model with FastAPI                                         | ⬜     | Coming Soon |
 | 59  | Run Batch Predictions on a Dataset                                     | ⬜     | Coming Soon |
