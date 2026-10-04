@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█████░░░░░ 57%
+█████░░░░░ 58%
 
-Day 57 / 100
+Day 58 / 100
 
 ---
 
@@ -235,7 +235,7 @@ Currently working on:
 | 55  | Fix a Broken Dockerfile HEALTHCHECK and EXPOSE                         | ✅     | [View](<days/Day 55 - Fix a Broken Dockerfile HEALTHCHECK and EXPOSE.md>) |
 | 56  | Fix a Docker CI Pipeline with Git-SHA Tagging                          | ✅     | [View](<days/Day 56 - Fix a Docker CI Pipeline with Git-SHA Tagging.md>) |
 | 57  | Serve an ML Model with Flask                                           | ✅     | [View](<days/Day 57 - Serve an ML Model with Flask.md>) |
-| 58  | Serve an ML Model with FastAPI                                         | ⬜     | Coming Soon |
+| 58  | Serve an ML Model with FastAPI                                         | ✅     | [View](<days/Day 58 - Serve an ML Model with FastAPI.md>) |
 | 59  | Run Batch Predictions on a Dataset                                     | ⬜     | Coming Soon |
 | 60  | Package a Model as a BentoML Service                                   | ⬜     | Coming Soon |
 | 61  | Containerize an ML Model API with Docker                               | ⬜     | Coming Soon |
