@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-█████░░░░░ 58%
+█████░░░░░ 59%
 
-Day 58 / 100
+Day 59 / 100
 
 ---
 
@@ -236,7 +236,7 @@ Currently working on:
 | 56  | Fix a Docker CI Pipeline with Git-SHA Tagging                          | ✅     | [View](<days/Day 56 - Fix a Docker CI Pipeline with Git-SHA Tagging.md>) |
 | 57  | Serve an ML Model with Flask                                           | ✅     | [View](<days/Day 57 - Serve an ML Model with Flask.md>) |
 | 58  | Serve an ML Model with FastAPI                                         | ✅     | [View](<days/Day 58 - Serve an ML Model with FastAPI.md>) |
-| 59  | Run Batch Predictions on a Dataset                                     | ⬜     | Coming Soon |
+| 59  | Run Batch Predictions on a Dataset                                     | ✅     | [View](<days/Day 59 - Run Batch Predictions on a Dataset.md>) |
 | 60  | Package a Model as a BentoML Service                                   | ⬜     | Coming Soon |
 | 61  | Containerize an ML Model API with Docker                               | ⬜     | Coming Soon |
 | 62  | Implement A/B Testing for Model Deployment                             | ⬜     | Coming Soon |
