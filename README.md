@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██████░░░░ 60%
+██████░░░░ 61%
 
-Day 60 / 100
+Day 61 / 100
 
 ---
 
@@ -238,7 +238,7 @@ Currently working on:
 | 58  | Serve an ML Model with FastAPI                                         | ✅     | [View](<days/Day 58 - Serve an ML Model with FastAPI.md>) |
 | 59  | Run Batch Predictions on a Dataset                                     | ✅     | [View](<days/Day 59 - Run Batch Predictions on a Dataset.md>) |
 | 60  | Package a Model as a BentoML Service                                   | ✅     | [View](<days/Day 60 - Package a Model as a BentoML Service.md>) |
-| 61  | Containerize an ML Model API with Docker                               | ⬜     | Coming Soon |
+| 61  | Deploy a Model-Serving Container via Portainer                         | ✅     | [View](<days/Day 61 - Deploy a Model-Serving Container via Portainer.md>) |
 | 62  | Implement A/B Testing for Model Deployment                             | ⬜     | Coming Soon |
 | 63  | Implement Async Batch Prediction with Task Queue                       | ⬜     | Coming Soon |
 | 64  | Serve Multiple Models Behind Unified API Gateway                       | ⬜     | Coming Soon |
