@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██████░░░░ 61%
+██████░░░░ 62%
 
-Day 61 / 100
+Day 62 / 100
 
 ---
 
@@ -239,7 +239,7 @@ Currently working on:
 | 59  | Run Batch Predictions on a Dataset                                     | ✅     | [View](<days/Day 59 - Run Batch Predictions on a Dataset.md>) |
 | 60  | Package a Model as a BentoML Service                                   | ✅     | [View](<days/Day 60 - Package a Model as a BentoML Service.md>) |
 | 61  | Deploy a Model-Serving Container via Portainer                         | ✅     | [View](<days/Day 61 - Deploy a Model-Serving Container via Portainer.md>) |
-| 62  | Implement A/B Testing for Model Deployment                             | ⬜     | Coming Soon |
+| 62  | Implement A/B Testing for Model Deployment                             | ✅     | [View](<days/Day 62 - Implement A B Testing for Model Deployment.md>) |
 | 63  | Implement Async Batch Prediction with Task Queue                       | ⬜     | Coming Soon |
 | 64  | Serve Multiple Models Behind Unified API Gateway                       | ⬜     | Coming Soon |
 | 65  | Implement Canary Deployment for Model Updates                          | ⬜     | Coming Soon |
