@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██████░░░░ 63%
+██████░░░░ 64%
 
-Day 63 / 100
+Day 64 / 100
 
 ---
 
@@ -241,7 +241,7 @@ Currently working on:
 | 61  | Deploy a Model-Serving Container via Portainer                         | ✅     | [View](<days/Day 61 - Deploy a Model-Serving Container via Portainer.md>) |
 | 62  | Implement A/B Testing for Model Deployment                             | ✅     | [View](<days/Day 62 - Implement A B Testing for Model Deployment.md>) |
 | 63  | Async Predictions with a Redis-Backed Worker                           | ✅     | [View](<days/Day 63 - Async Predictions with a Redis-Backed Worker.md>) |
-| 64  | Serve Multiple Models Behind Unified API Gateway                       | ⬜     | Coming Soon |
+| 64  | Serve Multiple Models Behind Unified API Gateway                       | ✅     | [View](<days/Day 64 - Serve Multiple Models Behind Unified API Gateway.md>) |
 | 65  | Implement Canary Deployment for Model Updates                          | ⬜     | Coming Soon |
 | 66  | Production Model Serving with Docker Compose                           | ⬜     | Coming Soon |
 | 67  | Add Prometheus as a Grafana Data Source                                | ⬜     | Coming Soon |
