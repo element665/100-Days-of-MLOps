@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██████░░░░ 65%
+██████░░░░ 66%
 
-Day 65 / 100
+Day 66 / 100
 
 ---
 
@@ -243,7 +243,7 @@ Currently working on:
 | 63  | Async Predictions with a Redis-Backed Worker                           | ✅     | [View](<days/Day 63 - Async Predictions with a Redis-Backed Worker.md>) |
 | 64  | Serve Multiple Models Behind Unified API Gateway                       | ✅     | [View](<days/Day 64 - Serve Multiple Models Behind Unified API Gateway.md>) |
 | 65  | Simulate a Canary Rollout for Model Updates                            | ✅     | [View](<days/Day 65 - Simulate a Canary Rollout for Model Updates.md>) |
-| 66  | Production Model Serving with Docker Compose                           | ⬜     | Coming Soon |
+| 66  | Production Model Serving with Docker Compose                           | ✅     | [View](<days/Day 66 - Production Model Serving with Docker Compose.md>) |
 | 67  | Add Prometheus as a Grafana Data Source                                | ⬜     | Coming Soon |
 | 68  | Generate a Model Performance Report                                    | ⬜     | Coming Soon |
 | 69  | Generate a Data Quality Report                                         | ⬜     | Coming Soon |
