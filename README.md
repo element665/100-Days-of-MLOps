@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██████░░░░ 66%
+██████░░░░ 67%
 
-Day 66 / 100
+Day 67 / 100
 
 ---
 
@@ -244,7 +244,7 @@ Currently working on:
 | 64  | Serve Multiple Models Behind Unified API Gateway                       | ✅     | [View](<days/Day 64 - Serve Multiple Models Behind Unified API Gateway.md>) |
 | 65  | Simulate a Canary Rollout for Model Updates                            | ✅     | [View](<days/Day 65 - Simulate a Canary Rollout for Model Updates.md>) |
 | 66  | Production Model Serving with Docker Compose                           | ✅     | [View](<days/Day 66 - Production Model Serving with Docker Compose.md>) |
-| 67  | Add Prometheus as a Grafana Data Source                                | ⬜     | Coming Soon |
+| 67  | Add Prometheus as a Grafana Data Source                                | ✅     | [View](<days/Day 67 - Add Prometheus as a Grafana Data Source.md>) |
 | 68  | Generate a Model Performance Report                                    | ⬜     | Coming Soon |
 | 69  | Generate a Data Quality Report                                         | ⬜     | Coming Soon |
 | 70  | Create Automated Tests with Evidently Test Suites                      | ⬜     | Coming Soon |
