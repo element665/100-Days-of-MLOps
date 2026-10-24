@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██████░░░░ 67%
+██████░░░░ 68%
 
-Day 67 / 100
+Day 68 / 100
 
 ---
 
@@ -245,7 +245,7 @@ Currently working on:
 | 65  | Simulate a Canary Rollout for Model Updates                            | ✅     | [View](<days/Day 65 - Simulate a Canary Rollout for Model Updates.md>) |
 | 66  | Production Model Serving with Docker Compose                           | ✅     | [View](<days/Day 66 - Production Model Serving with Docker Compose.md>) |
 | 67  | Add Prometheus as a Grafana Data Source                                | ✅     | [View](<days/Day 67 - Add Prometheus as a Grafana Data Source.md>) |
-| 68  | Generate a Model Performance Report                                    | ⬜     | Coming Soon |
+| 68  | Build a Grafana Time-Series Panel for Prediction Accuracy              | ✅     | [View](<days/Day 68 - Build a Grafana Time-Series Panel for Prediction Accuracy.md>) |
 | 69  | Generate a Data Quality Report                                         | ⬜     | Coming Soon |
 | 70  | Create Automated Tests with Evidently Test Suites                      | ⬜     | Coming Soon |
 | 71  | Set Up Evidently Monitoring Dashboard                                  | ⬜     | Coming Soon |
