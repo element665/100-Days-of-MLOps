@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-██████░░░░ 69%
+███████░░░ 70%
 
-Day 69 / 100
+Day 70 / 100
 
 ---
 
@@ -247,7 +247,7 @@ Currently working on:
 | 67  | Add Prometheus as a Grafana Data Source                                | ✅     | [View](<days/Day 67 - Add Prometheus as a Grafana Data Source.md>) |
 | 68  | Build a Grafana Time-Series Panel for Prediction Accuracy              | ✅     | [View](<days/Day 68 - Build a Grafana Time-Series Panel for Prediction Accuracy.md>) |
 | 69  | Build a Grafana Table Panel for Per-Feature Data Drift                 | ✅     | [View](<days/Day 69 - Build a Grafana Table Panel for Per-Feature Data Drift.md>) |
-| 70  | Create Automated Tests with Evidently Test Suites                      | ⬜     | Coming Soon |
+| 70  | Enforce Accuracy Gates with an Evidently Test Suite and Grafana Alert  | ✅     | [View](<days/Day 70 - Enforce Accuracy Gates with an Evidently Test Suite and a Grafana Alert.md>) |
 | 71  | Set Up Evidently Monitoring Dashboard                                  | ⬜     | Coming Soon |
 | 72  | Set Up Drift Detection Alerts                                          | ⬜     | Coming Soon |
 | 73  | Automatic Retraining Triggered by Drift Detection                      | ⬜     | Coming Soon |
