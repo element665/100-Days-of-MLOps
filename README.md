@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███████░░░ 71%
+███████░░░ 72%
 
-Day 71 / 100
+Day 72 / 100
 
 ---
 
@@ -249,7 +249,7 @@ Currently working on:
 | 69  | Build a Grafana Table Panel for Per-Feature Data Drift                 | ✅     | [View](<days/Day 69 - Build a Grafana Table Panel for Per-Feature Data Drift.md>) |
 | 70  | Enforce Accuracy Gates with an Evidently Test Suite and Grafana Alert  | ✅     | [View](<days/Day 70 - Enforce Accuracy Gates with an Evidently Test Suite and a Grafana Alert.md>) |
 | 71  | Build a 4-Panel Model-Overview Grafana Dashboard                       | ✅     | [View](<days/Day 71 - Build a 4-Panel Model-Overview Grafana Dashboard.md>) |
-| 72  | Set Up Drift Detection Alerts                                          | ⬜     | Coming Soon |
+| 72  | Configure a Grafana Contact Point and Notification Policy              | ✅     | [View](<days/Day 72 - Configure a Grafana Contact Point and Notification Policy.md>) |
 | 73  | Automatic Retraining Triggered by Drift Detection                      | ⬜     | Coming Soon |
 | 74  | Monitor Custom Business Metrics Alongside ML Metrics                   | ⬜     | Coming Soon |
 | 75  | End-to-End Monitoring: Prometheus, Grafana, Evidently                  | ⬜     | Coming Soon |
