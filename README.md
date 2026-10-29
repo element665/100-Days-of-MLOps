@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███████░░░ 72%
+███████░░░ 73%
 
-Day 72 / 100
+Day 73 / 100
 
 ---
 
@@ -250,7 +250,7 @@ Currently working on:
 | 70  | Enforce Accuracy Gates with an Evidently Test Suite and Grafana Alert  | ✅     | [View](<days/Day 70 - Enforce Accuracy Gates with an Evidently Test Suite and a Grafana Alert.md>) |
 | 71  | Build a 4-Panel Model-Overview Grafana Dashboard                       | ✅     | [View](<days/Day 71 - Build a 4-Panel Model-Overview Grafana Dashboard.md>) |
 | 72  | Configure a Grafana Contact Point and Notification Policy              | ✅     | [View](<days/Day 72 - Configure a Grafana Contact Point and Notification Policy.md>) |
-| 73  | Automatic Retraining Triggered by Drift Detection                      | ⬜     | Coming Soon |
+| 73  | Promote a Retrained Model via a Champion/Challenger Gate               | ✅     | [View](<days/Day 73 - Promote a Retrained Model via a Champion - Challenger Gate.md>) |
 | 74  | Monitor Custom Business Metrics Alongside ML Metrics                   | ⬜     | Coming Soon |
 | 75  | End-to-End Monitoring: Prometheus, Grafana, Evidently                  | ⬜     | Coming Soon |
 | 76  | Create CI Pipeline for ML Code Linting and Testing                     | ⬜     | Coming Soon |
