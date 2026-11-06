@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███████░░░ 76%
+███████░░░ 77%
 
-Day 76 / 100
+Day 77 / 100
 
 ---
 
@@ -254,7 +254,7 @@ Currently working on:
 | 74  | Add a Custom Business Metric and a Grafana Version Variable            | ✅     | [View](<days/Day 74 - Add a Custom Business Metric and a Grafana Version Variable.md>) |
 | 75  | Fix and Complete End-to-End Monitoring Stack                           | ✅     | [View](<days/Day 75 - Fix and Complete an End-to-End Monitoring Stack; Prometheus, Grafana, Evidently.md>) |
 | 76  | Create CI Pipeline for ML Code Linting and Testing                     | ✅     | [View](<days/Day 76 - Create CI Pipeline for ML Code Linting and Testing.md>) |
-| 77  | Add Data Validation to CI Pipeline                                     | ⬜     | Coming Soon |
+| 77  | Fix a Failing Data-Quality Job in Gitea Actions                        | ✅     | [View](<days/Day 77 - Fix a Failing Data-Quality Job in Gitea Actions.md>) |
 | 78  | Add Model Validation Tests to CI                                       | ⬜     | Coming Soon |
 | 79  | Generate Model Performance Reports in CI with CML                      | ⬜     | Coming Soon |
 | 80  | Automate Model Registration in CI/CD                                   | ⬜     | Coming Soon |
