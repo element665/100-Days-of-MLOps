@@ -255,7 +255,7 @@ Currently working on:
 | 75  | Fix and Complete End-to-End Monitoring Stack                           | ✅     | [View](<days/Day 75 - Fix and Complete an End-to-End Monitoring Stack; Prometheus, Grafana, Evidently.md>) |
 | 76  | Create CI Pipeline for ML Code Linting and Testing                     | ✅     | [View](<days/Day 76 - Create CI Pipeline for ML Code Linting and Testing.md>) |
 | 77  | Fix a Failing Data-Quality Job in Gitea Actions                        | ✅     | [View](<days/Day 77 - Fix a Failing Data-Quality Job in Gitea Actions.md>) |
-| 78  | Add Model Validation Tests to CI                                       | ⬜     | Coming Soon |
+| 78  | Parallelise Tests via a Gitea Actions Matrix Strategy                  | ✅     | [View](<days/Day 78 - Parallelise Tests via a Gitea Actions Matrix Strategy.md>) |
 | 79  | Generate Model Performance Reports in CI with CML                      | ⬜     | Coming Soon |
 | 80  | Automate Model Registration in CI/CD                                   | ⬜     | Coming Soon |
 | 81  | Automate Model Deployment with CD Pipeline                             | ⬜     | Coming Soon |
