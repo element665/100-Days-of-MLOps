@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███████░░░ 77%
+███████░░░ 79%
 
-Day 77 / 100
+Day 79 / 100
 
 ---
 
@@ -256,7 +256,7 @@ Currently working on:
 | 76  | Create CI Pipeline for ML Code Linting and Testing                     | ✅     | [View](<days/Day 76 - Create CI Pipeline for ML Code Linting and Testing.md>) |
 | 77  | Fix a Failing Data-Quality Job in Gitea Actions                        | ✅     | [View](<days/Day 77 - Fix a Failing Data-Quality Job in Gitea Actions.md>) |
 | 78  | Parallelise Tests via a Gitea Actions Matrix Strategy                  | ✅     | [View](<days/Day 78 - Parallelise Tests via a Gitea Actions Matrix Strategy.md>) |
-| 79  | Generate Model Performance Reports in CI with CML                      | ⬜     | Coming Soon |
+| 79  | Publish CI Training Artefacts via upload-artifact                      | ✅     | [View](<days/Day 79 - Publish CI Training Artefacts via upload-artifact.md>) |
 | 80  | Automate Model Registration in CI/CD                                   | ⬜     | Coming Soon |
 | 81  | Automate Model Deployment with CD Pipeline                             | ⬜     | Coming Soon |
 | 82  | End-to-End ML CI/CD Pipeline                                           | ⬜     | Coming Soon |
