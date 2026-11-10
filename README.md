@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-███████░░░ 79%
+████████░░ 80%
 
-Day 79 / 100
+Day 80 / 100
 
 ---
 
@@ -257,7 +257,7 @@ Currently working on:
 | 77  | Fix a Failing Data-Quality Job in Gitea Actions                        | ✅     | [View](<days/Day 77 - Fix a Failing Data-Quality Job in Gitea Actions.md>) |
 | 78  | Parallelise Tests via a Gitea Actions Matrix Strategy                  | ✅     | [View](<days/Day 78 - Parallelise Tests via a Gitea Actions Matrix Strategy.md>) |
 | 79  | Publish CI Training Artefacts via upload-artifact                      | ✅     | [View](<days/Day 79 - Publish CI Training Artefacts via upload-artifact.md>) |
-| 80  | Automate Model Registration in CI/CD                                   | ⬜     | Coming Soon |
+| 80  | Wire Repository Secrets into a Gitea Actions Workflow                  | ✅     | [View](<days/Day 80 - Wire Repository Secrets into a Gitea Actions Workflow.md>) |
 | 81  | Automate Model Deployment with CD Pipeline                             | ⬜     | Coming Soon |
 | 82  | End-to-End ML CI/CD Pipeline                                           | ⬜     | Coming Soon |
 | 83  | Automated Model Rollback with Health Checks                            | ⬜     | Coming Soon |
