@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████████░░ 80%
+████████░░ 81%
 
-Day 80 / 100
+Day 81 / 100
 
 ---
 
@@ -258,7 +258,7 @@ Currently working on:
 | 78  | Parallelise Tests via a Gitea Actions Matrix Strategy                  | ✅     | [View](<days/Day 78 - Parallelise Tests via a Gitea Actions Matrix Strategy.md>) |
 | 79  | Publish CI Training Artefacts via upload-artifact                      | ✅     | [View](<days/Day 79 - Publish CI Training Artefacts via upload-artifact.md>) |
 | 80  | Wire Repository Secrets into a Gitea Actions Workflow                  | ✅     | [View](<days/Day 80 - Wire Repository Secrets into a Gitea Actions Workflow.md>) |
-| 81  | Automate Model Deployment with CD Pipeline                             | ⬜     | Coming Soon |
+| 81  | Tag a Release and Publish to the Gitea Package Registry                | ✅     | [View](<days/Day 81 - Tag a Release and Publish to the Gitea Package Registry.md>) |
 | 82  | End-to-End ML CI/CD Pipeline                                           | ⬜     | Coming Soon |
 | 83  | Automated Model Rollback with Health Checks                            | ⬜     | Coming Soon |
 | 84  | Production ML CI/CD with Multi-Environment Promotion                   | ⬜     | Coming Soon |
