@@ -1,0 +1,21 @@
+name: Report (reusable)
+
+on:
+  workflow_call:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install report deps
+        run: pip install --break-system-packages numpy scikit-learn joblib matplotlib
+      - name: Train
+        run: python3 -m src.train
+      - name: Plot confusion matrix
+        run: python3 -m src.plot
+      - name: Upload report
+        uses: actions/upload-artifact@v3
+        with:
+          name: model-report
+          path: artifacts/

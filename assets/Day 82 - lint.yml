@@ -1,0 +1,14 @@
+name: Lint (reusable)
+
+on:
+  workflow_call:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install ruff
+        run: pip install --break-system-packages ruff
+      - name: Run ruff
+        run: ruff check src tests

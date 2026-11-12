@@ -1,0 +1,14 @@
+name: Test (reusable)
+
+on:
+  workflow_call:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pytest + runtime deps
+        run: pip install --break-system-packages pytest pandas numpy scikit-learn joblib
+      - name: Run pytest
+        run: python3 -m pytest tests -v
