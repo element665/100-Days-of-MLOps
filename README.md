@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████████░░ 81%
+████████░░ 82%
 
-Day 81 / 100
+Day 82 / 100
 
 ---
 
@@ -259,7 +259,7 @@ Currently working on:
 | 79  | Publish CI Training Artefacts via upload-artifact                      | ✅     | [View](<days/Day 79 - Publish CI Training Artefacts via upload-artifact.md>) |
 | 80  | Wire Repository Secrets into a Gitea Actions Workflow                  | ✅     | [View](<days/Day 80 - Wire Repository Secrets into a Gitea Actions Workflow.md>) |
 | 81  | Tag a Release and Publish to the Gitea Package Registry                | ✅     | [View](<days/Day 81 - Tag a Release and Publish to the Gitea Package Registry.md>) |
-| 82  | End-to-End ML CI/CD Pipeline                                           | ⬜     | Coming Soon |
+| 82  | Compose Gitea Workflows via workflow_call                              | ✅     | [View](<days/Day 82 - Compose Gitea Workflows via workflow_call.md>) |
 | 83  | Automated Model Rollback with Health Checks                            | ⬜     | Coming Soon |
 | 84  | Production ML CI/CD with Multi-Environment Promotion                   | ⬜     | Coming Soon |
 | 85  | Install Argo Workflows on Kubernetes                                   | ⬜     | Coming Soon |
