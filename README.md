@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████████░░ 82%
+████████░░ 83%
 
-Day 82 / 100
+Day 83 / 100
 
 ---
 
@@ -260,7 +260,7 @@ Currently working on:
 | 80  | Wire Repository Secrets into a Gitea Actions Workflow                  | ✅     | [View](<days/Day 80 - Wire Repository Secrets into a Gitea Actions Workflow.md>) |
 | 81  | Tag a Release and Publish to the Gitea Package Registry                | ✅     | [View](<days/Day 81 - Tag a Release and Publish to the Gitea Package Registry.md>) |
 | 82  | Compose Gitea Workflows via workflow_call                              | ✅     | [View](<days/Day 82 - Compose Gitea Workflows via workflow_call.md>) |
-| 83  | Automated Model Rollback with Health Checks                            | ⬜     | Coming Soon |
+| 83  | Revert a Broken ML Release via the Gitea Revert Button                 | ✅     | [View](<days/Day 83 - Revert a Broken ML Release via the Gitea Revert Button.md>) |
 | 84  | Production ML CI/CD with Multi-Environment Promotion                   | ⬜     | Coming Soon |
 | 85  | Install Argo Workflows on Kubernetes                                   | ⬜     | Coming Soon |
 | 86  | Create a Basic ML Training Workflow in Argo                            | ⬜     | Coming Soon |
