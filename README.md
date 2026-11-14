@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████████░░ 83%
+████████░░ 84%
 
-Day 83 / 100
+Day 84 / 100
 
 ---
 
@@ -261,7 +261,7 @@ Currently working on:
 | 81  | Tag a Release and Publish to the Gitea Package Registry                | ✅     | [View](<days/Day 81 - Tag a Release and Publish to the Gitea Package Registry.md>) |
 | 82  | Compose Gitea Workflows via workflow_call                              | ✅     | [View](<days/Day 82 - Compose Gitea Workflows via workflow_call.md>) |
 | 83  | Revert a Broken ML Release via the Gitea Revert Button                 | ✅     | [View](<days/Day 83 - Revert a Broken ML Release via the Gitea Revert Button.md>) |
-| 84  | Production ML CI/CD with Multi-Environment Promotion                   | ⬜     | Coming Soon |
+| 84  | Enforce Branch Protection on the main Branch                           | ✅     | [View](<days/Day 84 - Enforce Branch Protection on the main Branch.md>) |
 | 85  | Install Argo Workflows on Kubernetes                                   | ⬜     | Coming Soon |
 | 86  | Create a Basic ML Training Workflow in Argo                            | ⬜     | Coming Soon |
 | 87  | Pass Data Between Argo Steps with Output Parameters and Branching      | ⬜     | Coming Soon |
