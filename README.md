@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████████░░ 85%
+████████░░ 86%
 
-Day 85 / 100
+Day 86 / 100
 
 ---
 
@@ -263,7 +263,7 @@ Currently working on:
 | 83  | Revert a Broken ML Release via the Gitea Revert Button                 | ✅     | [View](<days/Day 83 - Revert a Broken ML Release via the Gitea Revert Button.md>) |
 | 84  | Enforce Branch Protection on the main Branch                           | ✅     | [View](<days/Day 84 - Enforce Branch Protection on the main Branch.md>) |
 | 85  | Submit Your First Argo Workflow.                                       | ✅     | [View](<days/Day 85 - Submit Your First Argo Workflow.md>) |
-| 86  | Create a Basic ML Training Workflow in Argo                            | ⬜     | Coming Soon |
+| 86  | Fix a Broken Argo DAG Dependency Chain                                 | ✅     | [View](<days/Day 86 - Fix a Broken Argo DAG Dependency Chain.md>) |
 | 87  | Pass Data Between Argo Steps with Output Parameters and Branching      | ⬜     | Coming Soon |
 | 88  | Create an ML Pipeline with Prefect                                     | ⬜     | Coming Soon |
 | 89  | Parallel Model Training with Argo withItems Fan-Out                    | ⬜     | Coming Soon |
