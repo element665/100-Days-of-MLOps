@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████████░░ 86%
+████████░░ 87%
 
-Day 86 / 100
+Day 87 / 100
 
 ---
 
@@ -264,7 +264,7 @@ Currently working on:
 | 84  | Enforce Branch Protection on the main Branch                           | ✅     | [View](<days/Day 84 - Enforce Branch Protection on the main Branch.md>) |
 | 85  | Submit Your First Argo Workflow.                                       | ✅     | [View](<days/Day 85 - Submit Your First Argo Workflow.md>) |
 | 86  | Fix a Broken Argo DAG Dependency Chain                                 | ✅     | [View](<days/Day 86 - Fix a Broken Argo DAG Dependency Chain.md>) |
-| 87  | Pass Data Between Argo Steps with Output Parameters and Branching      | ⬜     | Coming Soon |
+| 87  | Pass Data Between Argo Steps with Output Parameters and Branching      | ✅     | [View](<days/Day 87 - Pass Data Between Argo Steps with Output Parameters and Branching.md>) |
 | 88  | Create an ML Pipeline with Prefect                                     | ⬜     | Coming Soon |
 | 89  | Parallel Model Training with Argo withItems Fan-Out                    | ⬜     | Coming Soon |
 | 90  | Automated Retraining with Argo CronWorkflow                            | ⬜     | Coming Soon |
