@@ -18,9 +18,9 @@ This challenge focuses on:
 
 ## 📈 Progress
 
-████████░░ 88%
+████████░░ 89%
 
-Day 88 / 100
+Day 89 / 100
 
 ---
 
@@ -266,7 +266,7 @@ Currently working on:
 | 86  | Fix a Broken Argo DAG Dependency Chain                                 | ✅     | [View](<days/Day 86 - Fix a Broken Argo DAG Dependency Chain.md>) |
 | 87  | Pass Data Between Argo Steps with Output Parameters and Branching      | ✅     | [View](<days/Day 87 - Pass Data Between Argo Steps with Output Parameters and Branching.md>) |
 | 88  | Fix a Missing @task Decorator in a Prefect Flow                        | ✅     | [View](<days/Day 88 - Fix a Missing @task Decorator in a Prefect Flow.md>) |
-| 89  | Parallel Model Training with Argo withItems Fan-Out                    | ⬜     | Coming Soon |
+| 89  | Parallel Model Training with Argo withParam Fan-Out                    | ✅     | [View](<days/Day 89 - Parallel Model Training with Argo withParam Fan-Out.md>) |
 | 90  | Automated Retraining with Argo CronWorkflow                            | ⬜     | Coming Soon |
 | 91  | Production ML Pipeline: Argo Workflows + MLflow on Kubernetes          | ⬜     | Coming Soon |
 | 92  | Deploy an ML Model on Kubernetes                                       | ⬜     | Coming Soon |
